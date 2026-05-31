@@ -315,9 +315,13 @@ Insurance Cost Prediction
 
 ## Dilshan Nethmin Wijayarathne
 
-💡 Machine Learning Enthusiast  
-💻 Full Stack Developer  
-📊 Data Analytics & AI Projects  
+💻 Data Science Undergraduate
+
+🤖 AI & Machine Learning Enthusiast
+
+📊 Data Analytics and Intelligent Systems Developer
+
+🌐 Full Stack Developer
 
 ---
 
